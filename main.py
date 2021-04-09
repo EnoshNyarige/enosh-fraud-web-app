@@ -27,7 +27,7 @@ time_txn = st.time_input('Enter the transaction time')
 
 
 # Load the model (keras)
-model_file = "models/fraud_model.h5"
+model_file = "fraud_model.h5"
 bilstm_model = load_model(model_file, compile= True)
 
 
