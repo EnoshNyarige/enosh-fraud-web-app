@@ -5,3 +5,4 @@ matplotlib>=3.2.2
 pandas>=1.2.3
 tensorflow-cpu
 streamlit>=0.79.0
+lightgbm>=3.2.0
